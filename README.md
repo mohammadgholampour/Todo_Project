@@ -160,7 +160,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or suggestions, feel free to contact me:
 
 - Email: m.gholampour2002@gmail.com
-- GitHub: [mohammadgholampour](https://github.com/yourusername)
+- GitHub: [mohammadgholampour](https://github.com/mohammadgholampour)
 ```
 
 ### Customization Notes:
